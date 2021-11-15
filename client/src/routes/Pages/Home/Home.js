@@ -11,7 +11,7 @@ const Home = () => (
 
       <div class="info">
         <h1 class="title">Share files the modern way</h1>
-        <h2 class="subtitle">Using just a web browser to any device on the Internet!</h2>
+        <h2 class="subtitle">Using just a web browser to any device on the Internet Test!</h2>
 
         <a href="/app" class="btn">
           Start Sharing
