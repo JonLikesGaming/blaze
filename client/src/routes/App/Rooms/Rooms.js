@@ -87,7 +87,7 @@ function Rooms({ isOnline }) {
   };
 
   useEffect(() => {
-    document.title = 'App | Blaze';
+    document.title = 'App | Freedom Transfer';
     
     if (rooms.length === 0) {
       setModal(true);
@@ -136,8 +136,7 @@ function Rooms({ isOnline }) {
                       }
                     </ul>
                     <div class="donate">
-                      Like using Blaze? Consider
-                      <a href="https://www.buymeacoffee.com/akashhamirwasia"> donating</a>
+                      Like using Freedom Transfer? Thanks!
                     </div>
                   </>
                 ) : (
