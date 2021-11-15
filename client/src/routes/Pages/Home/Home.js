@@ -11,25 +11,8 @@ const Home = () => (
 
       <div class="info">
         <h1 class="title">Share files the modern way</h1>
-        <h2 class="subtitle">Using just a web browser to any device on the Internet Test!</h2>
-
-        <a href="/app" class="btn">
-          Start Sharing
-        </a>
-        <a
-          class="ph-mob"
-          href="https://www.producthunt.com/posts/blaze-2?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-blaze-2"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img
-            src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=174403&theme=dark&period=daily"
-            alt="Blaze - Fast peer to peer file sharing web app ⚡ | Product Hunt Embed"
-            style="width: 250px; height: 54px;"
-            width="250px"
-            height="54px"
-          />
-        </a>
+        <h2 class="subtitle">Using just a web browser to any device on the Internet!</h2>
+  
       </div>
 
       <img class="network-img" src={network} alt="Devices connected using Blaze" />
@@ -57,7 +40,7 @@ const Home = () => (
         <img src={twoDevices} alt="Laptop and mobile connected together" loading="lazy" style="margin-right: -60px" />
         <h2>Easy to use</h2>
         <p>
-          Blaze is a web app, just open it in your browser, join a room, and start sharing. No need to install any specific app, or create an account!
+          Freedom is a web app, just open it in your browser, join a room, and start sharing. No need to install any specific app, or create an account!
         </p>
       </div>
 
@@ -65,15 +48,15 @@ const Home = () => (
         <img src={threeDevices} alt="Laptop and two mobiles connected together" loading="lazy" />
         <h2>Multi-device</h2>
         <p>
-          Traditionally, sharing files to multiple devices has been a hassle. With Blaze, you can share files across multiple devices with ease.
+          Traditionally, sharing files to multiple devices has been a hassle. With Freedom, you can share files across multiple devices with ease.
         </p>
       </div>
       
       <div class="feature">
-        <img src={earth} alt="Devices in different parts of the world using Blaze to share files" loading="lazy" style="transform: scale(0.9)" />
+        <img src={earth} alt="Devices in different parts of the world using Freedom to share files" loading="lazy" style="transform: scale(0.9)" />
         <h2>Anywhere</h2>
         <p>
-          Blaze is built on modern web technologies, allowing it to work on devices far away from each other. It just needs to be connected to the internet.
+          Freedom is built on modern web technologies, allowing it to work on devices far away from each other. It just needs to be connected to the internet.
         </p>
       </div>
     </section>
@@ -81,14 +64,11 @@ const Home = () => (
     <section class="about" id="about">
 
       <blockquote>
-        <span>"</span>I built Blaze because I wanted a fast, radically different way to transfer files between my laptop and mobile<span>"</span>
+        <span>"</span>I built Freedom Transfer because I wanted a fast, radically different way to transfer files between my laptop and mobile<span>"</span>
 
         <footer>
-          <a href="https://akashhamirwasia.com" target="_blank" rel="noopener noreferrer">
-            <img src="https://github.com/blenderskool.png?size=100" alt="Akash Hamirwasia" />
-          </a>
-          <cite class="author">Akash Hamirwasia</cite>
-          <cite class="position">Creator of Blaze</cite>
+          <cite class="author">Wood Gaming</cite>
+          <cite class="position">Creator of Freedom Transfer</cite>
         </footer>
       </blockquote>
 
