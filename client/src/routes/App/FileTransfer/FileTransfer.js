@@ -227,7 +227,7 @@ class FileTransfer extends PureComponent {
   }
 
   componentDidMount() {
-    document.title = `${this.client.room} room | Blaze`;
+    document.title = `${this.client.room} room | Freedom Transfer`;
 
     this.visualizer = new Visualizer(this.canvas.current);
     this.fileShare = new SocketConnect(this.client.room, this.client.name);
@@ -331,7 +331,7 @@ class FileTransfer extends PureComponent {
 
     navigator.share({
       title: 'Share files',
-      text: `Join my room '${this.client.room}' on Blaze to share files`,
+      text: `Join my room '${this.client.room}' on Freedom Transfer to share files`,
       url: window.location.href,
     });
   }
