@@ -56,7 +56,7 @@ const Home = () => (
         <img src={earth} alt="Devices in different parts of the world using Freedom to share files" loading="lazy" style="transform: scale(0.9)" />
         <h2>Anywhere</h2>
         <p>
-          Freedom is built on modern web technologies, allowing it to work on devices far away from each other. It just needs to be connected to the internet.
+          Freedom Transfer is built on modern web technologies, allowing it to work on devices far away from each other. It just needs to be connected to the internet.
         </p>
       </div>
     </section>
