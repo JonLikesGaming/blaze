@@ -73,7 +73,7 @@ const Working = () => (
             using <Share2 size={20} /> button.
           </p>
           <p>
-            Since Blaze is an open-source project, I would love to hear your thoughts and how Blaze can be improved. If you find this project
+            Since Freedom Transfer is an open-source project, I would love to hear your thoughts and how Freedom Transfer can be improved. If you find this project
             useful, consider giving
             <a href="https://github.com/JonLikesGaming/blaze" target="_blank" rel="noreferrer"> Freedom Transfer a star on GitHub!</a>
           </p>
